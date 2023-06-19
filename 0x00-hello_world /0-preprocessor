@@ -1,4 +1,5 @@
 !#/bin/bash
+touch 0-preprocessor
 #/bin/vi/c/0x00$ cat main.c 
 #include <stdio.h>
 
