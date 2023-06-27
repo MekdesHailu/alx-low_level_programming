@@ -1,6 +1,6 @@
 cat 0-main.c
-#include "main.h"
-#include <stdio.h>
+#include "main.c"
+#include <stdio.c
 
 /**
  * main - check the code 
