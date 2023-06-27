@@ -1,3 +1,4 @@
+!#/bin/bash/gcc/vi
 cat 1-main.c
 #include "main.h"
 #include <stdio.h>
