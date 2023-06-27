@@ -1,3 +1,4 @@
+cd emacs
 !/bin/bash /gcc
 cat 1-main.c
 #include "main.h"
