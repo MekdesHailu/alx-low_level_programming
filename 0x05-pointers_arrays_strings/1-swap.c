@@ -1,4 +1,4 @@
-!#/bin/bash/gcc/vi
+!#/bin/bash/gcc
 cat 1-main.c
 #include "main.h"
 #include <stdio.h>
@@ -20,3 +20,4 @@ int main(void swap_int(int *a, int *b);)
     printf("a=%d, b=%d\n", a, b);
     return (0);
 }
+echo /0x05$/gcc -Wall -pedantic -Werror -Wextra -std=gnu89 1-main.c 1-swap.c -o 1-swap
